@@ -1,0 +1,15 @@
+{
+    "name": "SimpleWebService",
+    "version": "0.0.0",
+    "description": "SimpleWebService",
+    "main": "server.js",
+    "author": {
+        "name": "kdcoff1",
+        "email": ""
+    },
+    "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~3.6.13",
+        "body-parser": "~1.0.1"
+    }
+}
